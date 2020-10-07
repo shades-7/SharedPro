@@ -142,14 +142,24 @@ body{
     }
     .child1{
         font-size: 2rem;
+        height:250px;
     }
     .button{
         width:45%;
+        height:30px;
     }
     .term{
         font-size:10px;
     }
     .input1{
         width:92%;
+        height:35px;
     }
+    .child2{
+        height:700px;
+    }
+    .input{
+        height:35px;
+    }
+    
 }
