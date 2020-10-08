@@ -139,6 +139,7 @@ body{
 @media(max-width:530px){
     .parent{
         width:80%;
+        height:500px;
     }
     .child1{
         font-size: 2rem;
